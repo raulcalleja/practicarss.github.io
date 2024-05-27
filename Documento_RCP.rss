@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<rss version="2.0">
+    <channel>
+        <title>Canal RSS de Raul Calleja</title>
+        <link>https://github.com/tu_usuario</link>
+        <description>Este es un canal de ejemplo para la actividad de RSS</description>
+        <category>Noticias</category>
+        <language>es</language>
+        <lastBuildDate>Mon, 27 May 2024 12:00:00 GMT</lastBuildDate>
+        <managingEditor>a23capera@iesgrancapitan.org (RCP) </managingEditor>
+        <pubDate>Mon, 27 May 2024 12:00:00 GMT</pubDate>
+        <image>
+            <url>
+                https://www.spain.info/.content/imagenes/cabeceras-grandes/andalucia/vistas-cordoba-s158982617.jpg</url>
+            <title>Canal RSS de Raul Calleja</title>
+            <link>https://github.com/tu_usuario</link>
+        </image>
+
+        <!-- Artículos -->
+        <item>
+            <title>El aeropuerto de Córdoba trabaja para 'reabrir' a tiempo y acoger los vuelos
+                estivales</title>
+            <link>
+                https://www.diariocordoba.com/cordoba-ciudad/2024/05/27/aeropuerto-cordoba-trabaja-reabrir-tiempo-102929405.html</link>
+            <description>Trabajos en el Aeropuerto de Córdoba para la ampliación de la terminal</description>
+            <author>Irinamarzo@mail.com (Irinamarzo)</author>
+            <pubDate>Mon, 27 May 2024 12:00:00 GMT</pubDate>
+            <enclosure url="https://estaticos-cdn.prensaiberica.es/clip/7a44596a-696f-4c72-ab2d-660c7154dd64_16-9-discover-aspect-ratio_default_0.webp" length="78645" type="image/webp"/>
+            <source url="https://www.diariocordoba.com/" />
+        </item>
+
+        <item>
+            <title>Córdoba celebra 20 años en la Red de Ciudades AVE</title>
+            <link>
+                https://cordopolis.eldiario.es/cordoba-hoy/local/co-rdoba-celebra-20-anos-red-ciudades-ave_1_11400147.html</link>
+            <description>El teniente de alcalde delegado de Turismo, Daniel García Ibarrola, asiste
+                a la reunión que celebra la Red en Zaragoza</description>
+            <author>redaccioncordopolis@mail.com (redaccioncordopolis)</author>
+            <pubDate>Mon, 27 May 2024 12:00:00 GMT</pubDate>
+            <enclosure url="https://static.eldiario.es/clip/68958d18-5026-4f89-b6a4-a17e81af1ea2_16-9-discover-aspect-ratio_default_0.webp" length="78645" type="image/webp" />
+            <source url="https://cordopolis.eldiario.es/" />
+        </item>
+
+        <item>
+            <title>Un estudio de la Universidad de Córdoba revela por primera vez que las
+                cianobacterias marinas se comunican</title>
+            <link>
+                https://www.eldiadecordoba.es/cordoba/estudio-Universidad-Cordoba-cianobacterias-comunican_0_1906610543.html</link>
+            <description>El estudio evidencia que estos organismos no operan de forma aislada, sino
+                que interaccionan físicamente a través de unos nanotubos que actúan como puente de
+                intercambio entre células</description>
+            <author>eldia@mail.com (eldia)</author>
+            <pubDate>Mon, 27 May 2024 12:00:00 GMT</pubDate>
+            <enclosure url="https://www.eldiadecordoba.es/2024/05/27/cordoba/equipo-Universidad-Cordoba-liderado-investigacion_1906619959_213472098_667x375.jpg" length="78645" type="image/jpg"/>
+            <source url="https://www.eldiadecordoba.es/" />
+        </item>
+
+        <item>
+            <title>El Ayuntamiento defiende que la poda de árboles se rige por “estrictos criterios
+                técnicos”</title>
+            <link>
+                https://cordopolis.eldiario.es/cordoba-hoy/local/ayuntamiento-defiende-poda-arboles-rige-estrictos-criterios-tecnicos_1_11399465.html</link>
+            <description>El portavoz del Gobierno municipal responde a las quejas de los vecinos del
+                entorno de La Viñuela y avenida de Barcelona</description>
+            <author>JuanVelasco@mail.com (Juan Velazco)</author>
+            <pubDate>Mon, 27 May 2024 12:00:00 GMT</pubDate>
+            <enclosure url="https://static.eldiario.es/clip/787b8f9d-1aab-48fd-819f-6f416f340bf0_16-9-discover-aspect-ratio_default_0.webp" length="78645" type="image/webp" />
+
+            <source url="https://cordopolis.eldiario.es/" />
+        </item>
+
+    </channel>
+</rss>
