@@ -3,7 +3,7 @@
 <rss version="2.0">
     <channel>
         <title>Canal RSS de Raul Calleja</title>
-        <link>https://github.com/tu_usuario</link>
+        <link>https://practicarss.github.io/Documento_RCP.xml</link>
         <description>Este es un canal de ejemplo para la actividad de RSS</description>
         <category>Noticias</category>
         <language>es</language>
@@ -14,7 +14,7 @@
             <url>
                 https://www.spain.info/.content/imagenes/cabeceras-grandes/andalucia/vistas-cordoba-s158982617.jpg</url>
             <title>Canal RSS de Raul Calleja</title>
-            <link>https://github.com/tu_usuario</link>
+            <link>https://practicarss.github.io/Documento_RCP.xml</link>
         </image>
 
         <!-- Artículos -->
